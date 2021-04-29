@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Llevandote Mis Sentimientos</string>
+    <string name="sentimiento">Dijo la Ximena Sariñana</string>
+    <string name="guardar">Guardar</string>
+    <string name="MuyFeliz">Al 100 viejon</string>
+    <string name="Feliz">Feliz</string>
+    <string name="Neutral">Neutral</string>
+    <string name="Triste">Triste</string>
+    <string name="MuyTriste">Muy Triste</string>
+
+</resources>
